@@ -4,3 +4,5 @@ pip install jupyter
 pip install numpy
 pip install pandas
 pip install -U matplotlib
+pip install seaborn
+pip install scipy
